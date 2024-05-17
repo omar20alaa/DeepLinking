@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeepLinkingB</string>
+    <string name="loading">Loading…</string>
+    <string name="image">image</string>
+</resources>
